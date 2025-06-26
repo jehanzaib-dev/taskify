@@ -1,36 +1,77 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Taskify 📝
 
-## Getting Started
+Taskify is a sleek and responsive task management app built with **Next.js 15** and **Tailwind CSS 3**. It includes essential features like task creation, filtering, persistent storage, and dark mode support — designed as a professional front-end portfolio project.
 
-First, run the development server:
+---
+
+## 🌐 Live Demo
+
+> Add your deployment link here when ready.
+> Example: [taskify.vercel.app](https://taskify.vercel.app)
+
+---
+
+## 🚀 Features
+
+- ✅ Add tasks with validation (no empty submissions)
+- ✅ Mark tasks as complete or pending
+- ✅ Filter tasks: All | Done | Pending
+- ✅ Persistent storage using `localStorage`
+- ✅ Toggle Dark/Light mode
+- ✅ Responsive UI with Tailwind CSS
+- ✅ Clean, minimal design with a sticky footer
+- ✅ Custom favicon and metadata
+
+---
+
+## 🛠️ Tech Stack
+
+- **Next.js 15** (App Router)
+- **React 19**
+- **Tailwind CSS 3.4**
+- **LocalStorage**
+- **ESLint** (optional)
+
+---
+
+## 📷 Screenshots
+
+### Home Page
+![Home Page](./public/screenshots/home.png)
+
+### Items
+![Items](./public/screenshots/items.png)
+
+### Dark Mode
+![Dark Mode](./public/screenshots/darkmode.png)
+
+---
+
+## 🔧 Getting Started
 
 ```bash
+# Clone the repo
+git clone https://github.com/jehanzaib-dev/taskify.git
+
+# Install dependencies
+npm install
+
+# Start the dev server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## 📬 Contact
 
-To learn more about Next.js, take a look at the following resources:
+Made with ❤️ by **Jehanzaib**  
+📧 Gmail: [jehanzaib.dev@gmail.com](mailto:jehanzaib.dev@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/jehanzaib-arshad-a722b6369](https://linkedin.com/in/jehanzaib-arshad-a722b6369)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📝 License
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is for educational and portfolio purposes.
