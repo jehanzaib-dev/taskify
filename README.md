@@ -6,8 +6,7 @@ Taskify is a sleek and responsive task management app built with **Next.js 15** 
 
 ## 🌐 Live Demo
 
-> Add your deployment link here when ready.
-> Example: [taskify.vercel.app](https://taskify-six-coral.vercel.app/)
+(https://taskify-six-coral.vercel.app/)
 
 ---
 
